@@ -2,7 +2,8 @@
 
 | `develop` |
 |-----------|
-| [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Innmind/DependencyGraph/badges/quality-score.png?b=develop)](https://scrutinizer-ci.com/g/Innmind/DependencyGraph/?branch=develop) |
+| [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Innmind/DependencyGraph/badges/quality-score.png?b=develop)](https://scrutinizer-ci.com/g/Innmind/DependencyGraph/?branch=develop) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FInnmind%2FDependencyGraph.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FInnmind%2FDependencyGraph?ref=badge_shield)
+|
 | [![Code Coverage](https://scrutinizer-ci.com/g/Innmind/DependencyGraph/badges/coverage.png?b=develop)](https://scrutinizer-ci.com/g/Innmind/DependencyGraph/?branch=develop) |
 | [![Build Status](https://scrutinizer-ci.com/g/Innmind/DependencyGraph/badges/build.png?b=develop)](https://scrutinizer-ci.com/g/Innmind/DependencyGraph/build-status/develop) |
 
@@ -41,3 +42,7 @@ This will look for all packages inside the vendors `vendor1` and `vendorX` that 
 `dependency-graph depends-on innmind/cli innmind baptouuuu` ![](innmind_cli_dependents.svg)
 
 `dependency-graph vendor innmind` ![](innmind.svg)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FInnmind%2FDependencyGraph.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FInnmind%2FDependencyGraph?ref=badge_large)
